@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YBlog</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="web_loading">Loading…</string>
+</resources>
